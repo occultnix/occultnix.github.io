@@ -1,0 +1,6 @@
+header, footer { width: 100%; position: absolute; }
+header         { top: 0; }
+footer         { bottom: 0; }
+
+#container     { position: relative; min-height: 100vh; }
+#content       { width: 100%; }

@@ -1,0 +1,32 @@
+.c1 { background-color: #080808; }
+.c2 { background-color: #1C1A1C; }
+.c3 { background-color: #958792; }
+.c4 { background-color: #AC9DA9; }
+.c5 { background-color: #291A26; }
+.c6 { background-color: #6B0000; }
+.c7 { background-color: #0F4F41; }
+.c8 { background-color: #228BA3; }
+
+.t1 { color: #080808; }
+.t2 { color: #1C1A1C; }
+.t3 { color: #958792; }
+.t4 { color: #AC9DA9; }
+.t5 { color: #291A26; }
+.t6 { color: #6B0000; }
+.t7 { color: #0F4F41; }
+.t8 { color: #228BA3; }
+
+.f1 { font-family: 'Special Elite', cursive; }
+.f2 { font-family: 'Montserrat', sans-serif; }
+.f3 { font-family: 'Martel Sans', sans-serif; font-weight: 100; }
+
+h1 { font-size: 42px; line-height: 40px; }
+h2 { font-size: 32px; line-height: 28px; }
+h3 { font-size: 26px; line-height: 24px; }
+h4 { font-size: 22px; line-height: 20px; }
+h5 { font-size: 16px; line-height: 18px; }
+h6 { font-size: 10px; line-height: 20px; }
+p  { font-size: 14px; line-height: 16px; }
+
+a       { color: #6B0000; }
+a:hover { color: #3B0000; }
